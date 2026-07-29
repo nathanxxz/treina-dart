@@ -1,0 +1,16 @@
+# Dart
+.dart_tool/
+.packages
+.pub/
+build/
+
+# Tests and reports
+coverage/
+
+# IDEs and editors
+.idea/
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
